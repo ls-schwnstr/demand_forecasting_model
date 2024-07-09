@@ -1,13 +1,9 @@
 # Demand Forecasting Model for Taxis in NYC
 
-This project leverages data science techniques to predict taxi demand in ten different areas of New York City throughout the day. By analyzing six months of GPS data and vehicle start times, accurate and actionable insights to improve urban mobility and optimize the use of transport resources.
+In this project, data science techniques are applied to predict the taxi demand in ten different areas in New York throughout the day by analyzing six months of GPS data and the start times of the company's vehicles.The approach integrates the building of both a SARIMA model and a XGboost prediction model. 
 
-# Key Features
-Predictive Modeling: Utilizes both SARIMA and XGBoost models to forecast taxi demand.
 
 ![Prediction Results](https://github.com/ls-schwnstr/demand_forecasting_model/blob/main/Model_Training/plots/cluster_0_plot.png)
-
-Data Visualizations: Includes insightful visualizations to help understand demand patterns and trends.
 
 
 
