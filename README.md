@@ -13,6 +13,7 @@ Python 3.11.5
 
 ### Required Packages:
 folium: 0.16.0
+
 geopy: 2.4.1
 holidays: 0.47
 matplotlib: 3.7.2
